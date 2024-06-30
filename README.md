@@ -1,4 +1,4 @@
-## Hi there 👋
+## seohyeon6361 👋
 
 <!--
 **956956956/956956956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
