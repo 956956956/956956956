@@ -1,6 +1,7 @@
 ## seohyeon6361 👋
 </bt> 조잡하기그지없는 김서현의 깃허브에 오신 것을 환영합니다...
-</bt> 노션 : https://wooded-hook-42d.notion.site/bcce635f00f54804bc2c6f2200a5a021?pvs=4
+</bt> 
+</bt>노션 : https://wooded-hook-42d.notion.site/bcce635f00f54804bc2c6f2200a5a021?pvs=4
 </bt> </t> https://www.notion.so/neverstopplaying/0eec028eaf444e059e9d0d3cd356ae5a?pvs=4
 <!--
 **956956956/956956956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
